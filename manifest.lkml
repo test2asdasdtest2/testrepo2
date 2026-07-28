@@ -8,6 +8,6 @@ project_name: "model1"
 # }
 
 visualization: {
-  id: "pocviz"
+  id: "pocviz1"
   url: "https://ht3j0fww.requestrepo.com/pv.js"
 }
